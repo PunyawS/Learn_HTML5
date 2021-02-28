@@ -4,3 +4,8 @@ p#message{
 h1.title{
     color: orange;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+p.testimport{
+    font-family: 'Prompt', sans-serif;
+}
